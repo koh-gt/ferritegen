@@ -15,6 +15,7 @@ Explorers and nodes can be set up at the prices below.
 
 
 Prices start from 𝔽 10,000 ($17).
+Contact [@kohgt](https://t.me/ferrite_core) for more information.
 
 $$\text{Pricing table}$$
 | Component                       | Description                                  | Price (FEC) |
